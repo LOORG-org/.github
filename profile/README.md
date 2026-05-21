@@ -20,11 +20,11 @@ We are a clinical and translational research group specialising in ocular oncolo
 
 Our code covers the full pipeline from image acquisition through to model deployment. Key areas include:
 
-- Fundus image classification (CNNs, Vision Transformers, RETFound)
-- Cytospin WSI segmentation and classification (U-Net, MIL frameworks)
-- Graph neural networks for spatial macrophage analysis (GATv2)
-- Data preprocessing, augmentation, and evaluation utilities
-- Trusted research environment tools (EYE-CAN-AID)
+| Project | Repository |
+|---|---|
+| Fundus image classification (CNNs, Vision Transformers, RETFound) | [fundoscopy-ensemble](https://github.com/LOORG-org/fundoscopy-ensemble) |
+| Cytospin WSI segmentation and classification (U-Net, MIL frameworks) | [cytospin-pipeline](https://github.com/LOORG-org/cytospin-pipeline) |
+| Graph neural networks for spatial macrophage analysis (GATv2) | [macrophage-detection](https://github.com/LOORG-org/macrophage-detection) |
 
 ---
 
