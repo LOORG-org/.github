@@ -40,7 +40,7 @@ Our code covers the full pipeline from image acquisition through to model deploy
 
 | Resource | Link |
 |---|---|
-| Group website | [loorg.org](https://www.loorg.org) |
+| Group website | [loorg.org](http://www.loorg.org) |
 | EYE-CAN-AID TRE | [loorg.org](http://www.loorg.org/eye-can-aid-trusted-research-environment.html) |
 
 ---
