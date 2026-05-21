@@ -18,9 +18,17 @@ We are a clinical and translational research group specialising in ocular oncolo
 
 ## General Tools
 
-Below is a repository containing some general tools such as tumour segmentation and normalisation. Please feel free to add any tools you use often and think would be of use!
+Below is a repository containing some general tools such as tumour segmentation and normalisation. Please feel free to add any tools you use often and think would be of use! **Not publicaly available**
 
 ## [LOORG Tools](https://github.com/LOORG-org/loorg-tools)
+
+---
+
+## RNA-seq pipeline
+
+This is a link to a full RNA-seq pipeline to go from the raw files to useable multiQC end files. Computatnially this is only possible on the HPC so it has be desinged to be as easy as possbile to upload directly with your data and run using the UoL HPC. **Not publicaly available**
+
+## [Full pipeline](https://github.com/LOORG-org/rnaseq-pipeline)
 
 ---
 
@@ -28,11 +36,11 @@ Below is a repository containing some general tools such as tumour segmentation 
 
 Our code covers the full pipeline from image acquisition through to model deployment. Key areas include:
 
-| Project | Repository |
-|---|---|
-| Fundus image classification (CNNs, Vision Transformers, RETFound) | [fundoscopy-ensemble](https://github.com/LOORG-org/fundoscopy-ensemble) |
-| Cytospin WSI segmentation and classification (U-Net, MIL frameworks) | [cytospin-pipeline](https://github.com/LOORG-org/cytospin-pipeline) |
-| Graph neural networks for spatial macrophage analysis (GATv2) | [macrophage-detection](https://github.com/LOORG-org/macrophage-detection) |
+| Project | Repository | Public? |
+|---|---|---|
+| Fundus image classification (CNNs, Vision Transformers, RETFound) | [fundoscopy-ensemble](https://github.com/LOORG-org/fundoscopy-ensemble) | Yes |
+| Cytospin WSI segmentation and classification (U-Net, MIL frameworks) | [cytospin-pipeline](https://github.com/LOORG-org/cytospin-pipeline) | No |
+| Graph neural networks for spatial macrophage analysis (GATv2) | [macrophage-detection](https://github.com/LOORG-org/macrophage-detection) | No |
 
 ---
 
