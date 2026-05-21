@@ -16,6 +16,14 @@ We are a clinical and translational research group specialising in ocular oncolo
 
 ---
 
+## General Tools
+
+Below is a repository containing some general tools such as tumour segmentation and normalisation. Please feel free to add any tools you use often and think would be of use!
+
+## [LOORG Tools](https://github.com/LOORG-org/loorg-tools)
+
+---
+
 ## Repositories
 
 Our code covers the full pipeline from image acquisition through to model deployment. Key areas include:
