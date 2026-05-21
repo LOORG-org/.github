@@ -1,6 +1,6 @@
 # Liverpool Ocular Oncology Research Group (LOORG)
 
-**University of Liverpool | Department of Molecular and Clinical Cancer Medicine**
+**University of Liverpool | Department of Eye and Vision Science**
 
 We are a clinical and translational research group specialising in ocular oncology, with a focus on uveal melanoma (UM) and other intraocular tumours. Our work spans molecular pathology, prognostic biomarkers, and the development of computational and AI-based tools for diagnosis, prognosis, and treatment planning.
 
